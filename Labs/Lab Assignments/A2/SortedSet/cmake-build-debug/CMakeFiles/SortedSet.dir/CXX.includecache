@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Uni/Data Structures and Algorithms/A2/SortedSet/SortedSet.cpp
+SortedSet.h
+D:/Uni/Data Structures and Algorithms/A2/SortedSet/SortedSet.h
+SortedSetIterator.h
+D:/Uni/Data Structures and Algorithms/A2/SortedSet/SortedSetIterator.h
+
+D:/Uni/Data Structures and Algorithms/A2/SortedSet/SortedSet.h
+
+D:/Uni/Data Structures and Algorithms/A2/SortedSet/SortedSetIterator.h
+SortedSet.h
+D:/Uni/Data Structures and Algorithms/A2/SortedSet/SortedSet.h
+

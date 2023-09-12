@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/App.cpp
+iostream
+-
+ShortTest.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ShortTest.h
+ExtendedTest.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ExtendedTest.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ExtendedTest.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SMMIterator.cpp
+SMMIterator.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SMMIterator.h
+SortedMultiMap.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SortedMultiMap.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SMMIterator.h
+SortedMultiMap.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SortedMultiMap.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ShortTest.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SortedMultiMap.cpp
+SMMIterator.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SMMIterator.h
+SortedMultiMap.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SortedMultiMap.h
+iostream
+-
+vector
+-
+exception
+-
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SortedMultiMap.h
+vector
+-
+utility
+-
+SMMIterator.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SMMIterator.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ValueIterator.cpp
+ValueIterator.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ValueIterator.h
+
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/ValueIterator.h
+vector
+-
+utility
+-
+SMMIterator.h
+D:/Uni/Data Structures and Algorithms/A5/SortedMultiMap/SMMIterator.h
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Uni/Data Structures and Algorithms/A4/Bag/Bag.cpp
+Bag.h
+D:/Uni/Data Structures and Algorithms/A4/Bag/Bag.h
+BagIterator.h
+D:/Uni/Data Structures and Algorithms/A4/Bag/BagIterator.h
+exception
+-
+iostream
+-
+stdlib.h
+-
+
+D:/Uni/Data Structures and Algorithms/A4/Bag/Bag.h
+
+D:/Uni/Data Structures and Algorithms/A4/Bag/BagIterator.h
+Bag.h
+D:/Uni/Data Structures and Algorithms/A4/Bag/Bag.h
+
+D:/Uni/Data Structures and Algorithms/A4/Bag/ShortTest.cpp
+ShortTest.h
+D:/Uni/Data Structures and Algorithms/A4/Bag/ShortTest.h
+assert.h
+-
+iostream
+-
+Bag.h
+D:/Uni/Data Structures and Algorithms/A4/Bag/Bag.h
+BagIterator.h
+D:/Uni/Data Structures and Algorithms/A4/Bag/BagIterator.h
+
+D:/Uni/Data Structures and Algorithms/A4/Bag/ShortTest.h
+
